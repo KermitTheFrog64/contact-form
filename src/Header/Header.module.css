@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.burger {
+    width: 35px;
+    height: 5px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 6px 0;
+}
+
+.btn {
+    padding: 8px 16px;
+    width: 60px;
+    height: 27px;
+    background: #ED64A6;
+    border-radius: 6px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+img {
+    margin: 0;
+}

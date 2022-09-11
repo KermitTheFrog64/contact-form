@@ -1,0 +1,85 @@
+.email {
+  box-sizing: border-box;
+  width: 288px;
+  height: 59px;
+  background: #FFFFFF;
+  border: 1px solid #CBD5E0;
+  border-radius: 6px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 18px 16px 17px;
+}
+
+.message {
+  box-sizing: border-box;
+  display: flex;
+  width: 288px;
+  height: 115px;
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 26px 12px 69px;
+}
+
+h1 {
+  width: 175px;
+  height: 39px;
+  left: 16px;
+  top: 101px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: rgba(0, 0, 0, 0.64);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description {
+  width: 288px;
+  height: 57px;
+  left: 16px;
+  top: 164px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: rgba(0, 0, 0, 0.45);
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 24px;
+  gap: 8px;
+  width: 70px;
+  height: 37px;
+  left: 16px;
+  top: 475px;
+  background: #4DBA7A;
+  border-radius: 6px;
+  margin-left: auto;
+  margin-right: auto;
+}
